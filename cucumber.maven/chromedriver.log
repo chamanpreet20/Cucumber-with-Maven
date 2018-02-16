@@ -1,0 +1,12 @@
+[-0.000][INFO]:     ChromeDriver 22.0.1203.0 C:\Users\chaman.preet\Documents\C data\Test_workspace\cucumber.maven\ChromeDriver\chromedriver.exe
+[0.436][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "goog:chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   }
+}
+
+[0.436][INFO]:      Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --disable-popup-blocking --homepage=about:blank
+[45.456][SEVERE]:   Failed to initialize connection
+[45.456][INFO]:     Chrome shutdown
