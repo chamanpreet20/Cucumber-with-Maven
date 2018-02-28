@@ -65,7 +65,7 @@ public class Glue_methods {
 	@When("^I enter valid data$")
 	public void i_enter_valid_data(DataTable table) throws Throwable {
 		java.util.List<java.util.List<String>> data = table.raw();
-	      driver.findElement(By.id("login-emai")).sendKeys("test1");
+	      driver.findElement(By.id("login-email")).sendKeys("test1");
 	      driver.findElement(By.id("login-password")).sendKeys("xyz");
 	      driver.findElement(By.id("login-submit")).click();
 	    // Write code here that turns the phrase above into concrete actions
